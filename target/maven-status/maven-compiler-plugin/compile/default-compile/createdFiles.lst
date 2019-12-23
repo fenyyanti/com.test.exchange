@@ -1,0 +1,9 @@
+com/test/util/Utils.class
+com/test/exchange/ExchangeRateController.class
+com/test/exchange/ExchangeServiceController.class
+com/test/exchange/ExchangeRate.class
+com/test/exchange/ExchangeRepository.class
+com/test/exchange/ExchangeService.class
+com/test/exchange/ExchangeInformation.class
+com/test/exchange/ExchangeServiceImpl.class
+com/test/MainApplicationClass.class
